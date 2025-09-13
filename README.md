@@ -2,5 +2,5 @@
 
 A Pen created on CodePen.
 
-Original URL: [https://codepen.io/Jacquline-Sathish/pen/PwPrqQb](https://codepen.io/Jacquline-Sathish/pen/PwPrqQb).
+Original URL: [https://github.com/jacqulinesathish-a11y/TNSDC-FWD-DP1.git](https://github.com/jacqulinesathish-a11y/TNSDC-FWD-DP1.git).
 
